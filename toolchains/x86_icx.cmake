@@ -1,0 +1,4 @@
+set(CMAKE_C_COMPILER icx)
+set(CMAKE_CXX_COMPILER icx)
+
+set(CMAKE_CXX_FLAGS "/O2")
